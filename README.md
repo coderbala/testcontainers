@@ -10,7 +10,7 @@ This repository contains a Spring Boot application that demonstrates how to use 
 
 ## Prerequisites
 
-- Java 11 or higher
+- Java 17 or higher
 - Gradle
 - Docker
 
